@@ -1,0 +1,99 @@
+{
+  "plugins": [
+    {
+      "name": "NOTES",
+      "url": "https://gist.github.com/Tohidkhan6332/61823aa94a08bcdae3f859b18cdb1b7e",
+      "description": "Quickly save your thoughts or reminders. Easily retrieve, Manage your notes by removing outdated or unnecessary ones."
+    },
+    {
+      "name": "GET JIDS",
+      "url": "https://gist.github.com/Tohidkhan6332/adb41d38a12cde8e829b16fef9787510",
+      "description": "Fetches the Jabber ID (JID) of groups and members for easier identification and management."
+    },
+    {
+      "name": "R-C STICKER",
+      "url": "https://gist.github.com/Tohidkhan6332/df97bd491110da7b1d66921179ccb42a",
+      "description": "Generate stylish rounded corner stickers from images with ease and share them instantly."
+    },
+    {
+      "name": "OWNER INTRODUCTION",
+      "url": "https://gist.github.com/Tohidkhan6332/5d4e948fc5e60e4ef9a4e8d030bbe02f",
+      "description": "Owner introduction 😄."
+    },
+    {
+      "name": "LIVE TIME",
+      "url": "https://gist.github.com/Tohidkhan6332/95235bc06de731f95a2c43bfebe90e08",
+      "description": "Displays the current live time of any location worldwide, keeping you updated on time zone differences."
+    },
+    {
+      "name": "QUOTED STICKER",
+      "url": "https://gist.github.com/Tohidkhan6332/1c2bcfcf4b1f5a42997b12d26f4575be",
+      "description": "Create custom text-based stickers, personalized with your own quotes or messages."
+    },
+    {
+      "name": "HACK PRANK",
+      "url": "https://gist.github.com/Tohidkhan6332/03b6aac6ddf36d407e90c69bdd3050ca",
+      "description": "A prank tool that simulates a hacking event, perfect for scaring your friends in a fun way."
+    },
+    {
+      "name": "LINUX MACHINE",
+      "url": "https://gist.github.com/Tohidkhan6332/07d2cd6c2b10124a88bca8efe45d0333",
+      "description": "Simulates basic Linux machine commands, bringing a virtual Linux environment into WhatsApp chats."
+    },
+    {
+      "name": "LEAVE GROUP",
+      "url": "https://gist.github.com/Tohidkhan6332/25315191dee2919536d79a058ceb2c34",
+      "description": "Quickly leave a group with a single command, ideal for situations where you no longer wish to stay."
+    },
+    {
+      "name": "CHATBOT",
+      "url": "https://gist.github.com/Tohidkhan6332/383964cfa79d5efc713e5beb8b8e7ad9",
+      "description": "Integrate an automated chatbot that engages in meaningful conversations, enhancing user interaction."
+    },
+    {
+      "name": "BLACKBOX AI",
+      "url": "https://gist.github.com/Tohidkhan6332/b21c411dfa7d17f75615d969b0301ce2",
+      "description": "A sophisticated AI tool designed to analyze data and make predictions using black-box machine learning models."
+    },
+    {
+      "name": "TRAVEL ASSISTANT",
+      "url": "https://gist.github.com/Tohidkhan6332/22ffe00f6a4d69fd864816ed8a87117c",
+      "description": "Your personal travel assistant for booking flights, finding hotels, and managing itineraries seamlessly."
+    },
+    {
+      "name": "MINIMAL GOOGLE",
+      "url": "https://gist.github.com/Tohidkhan6332/c2e2d799486ff310cc3ea6ad46ded7f4",
+      "description": "A minimalistic interface for fast and efficient searches on Google, focusing on speed and simplicity."
+    },
+    {
+      "name": "FACTS",
+      "url": "https://gist.github.com/Tohidkhan6332/a662fdab16931760e8c8ff84e8aaf01b",
+      "description": "Delivers a random, interesting fact each time you trigger the command, making learning fun and engaging."
+    },
+    {
+      "name": "TELL ME",
+      "url": "https://gist.github.com/Tohidkhan6332/3f5ffe87237f1f9b1d8fc38e7c479148",
+      "description": "Asks random 'Why' questions, sparking thought-provoking conversations and curiosity."
+    },
+    {
+      "name": "SEARCH STICKERS",
+      "url": "https://gist.github.com/Tohidkhan6332/555df57464308cf344b4c1f67baa0e2e",
+      "description": "Search for stickers by your preferred search term, making it easier to find the perfect sticker for your chat."
+    },
+    {
+      "name": "RANDOM WALLP",
+      "url": "https://gist.github.com/Tohidkhan6332/4310e6c77f37a926f5c85bb1fcaa4971",
+      "description": "Provides random anime-themed wallpapers, allowing you to freshen up your screen with new artwork."
+    },
+    {
+      "name": "RANDOM NEKO",
+      "url": "https://gist.github.com/Tohidkhan6332/2fd4a9a58d5377466b742a429d1995b2",
+      "description": "Fetches random images of anime characters with cat ears (Neko), adding cuteness to your day."
+    },
+    {
+      "name": "TEDDY",
+      "url": "https://gist.github.com/Tohidkhan6332/9cac4e38d7e588e8179b1715e74d5956",
+      "description": "Sends an adorable animated teddy bear to bring a smile to your face."
+    }
+  ]
+}
